@@ -23,7 +23,7 @@ while True:
 
 		print(a)
 
-		string_to_file("update.txt" "")
+		string_to_file("update.txt", "")
 
 		print("uploaded files to github pages")
 	else:
